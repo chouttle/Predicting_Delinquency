@@ -3,6 +3,6 @@ Datadive, Code Jam 2017- McGill University
 
 All the work is available in the file predicting_delinquency.ipynb
 
-#####Authors 
+##### Authors
 Brennan Nichyporuk  
 Vivien Traineau
